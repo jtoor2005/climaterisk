@@ -5,6 +5,9 @@
 Using NASA Earthdata Cloud data to assess the risk of wildfire, drought, and flood.
 
 ## Usage
+# ClimateRisk
+
+This is my personal fork. I plan to contribute analysis notebooks and explore NASA EarthData APIs.
 
 ### Building the book
 
