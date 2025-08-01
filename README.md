@@ -30,3 +30,5 @@ We welcome and recognize all contributions. You can see a list of current contri
 ## Credits
 
 This project is created using the excellent open source [MyST MD](https://mystmd.org) and is funded by NASA Transform to Open Science Training or “TOPST”, Research Opportunities in Space and Earth Science [(ROSES) solicitation F.14](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860824/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/F.14_TOPST_Amend46.pdf).
+
+Open Source Project
